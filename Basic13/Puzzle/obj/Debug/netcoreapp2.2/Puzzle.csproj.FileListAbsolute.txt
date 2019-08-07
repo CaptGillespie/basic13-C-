@@ -1,0 +1,11 @@
+/Users/seangillespie/Desktop/C#/Basic13/Puzzle/obj/Debug/netcoreapp2.2/Puzzle.csprojAssemblyReference.cache
+/Users/seangillespie/Desktop/C#/Basic13/Puzzle/obj/Debug/netcoreapp2.2/Puzzle.csproj.CoreCompileInputs.cache
+/Users/seangillespie/Desktop/C#/Basic13/Puzzle/obj/Debug/netcoreapp2.2/Puzzle.AssemblyInfoInputs.cache
+/Users/seangillespie/Desktop/C#/Basic13/Puzzle/obj/Debug/netcoreapp2.2/Puzzle.AssemblyInfo.cs
+/Users/seangillespie/Desktop/C#/Basic13/Puzzle/bin/Debug/netcoreapp2.2/Puzzle.deps.json
+/Users/seangillespie/Desktop/C#/Basic13/Puzzle/bin/Debug/netcoreapp2.2/Puzzle.runtimeconfig.json
+/Users/seangillespie/Desktop/C#/Basic13/Puzzle/bin/Debug/netcoreapp2.2/Puzzle.runtimeconfig.dev.json
+/Users/seangillespie/Desktop/C#/Basic13/Puzzle/bin/Debug/netcoreapp2.2/Puzzle.dll
+/Users/seangillespie/Desktop/C#/Basic13/Puzzle/bin/Debug/netcoreapp2.2/Puzzle.pdb
+/Users/seangillespie/Desktop/C#/Basic13/Puzzle/obj/Debug/netcoreapp2.2/Puzzle.dll
+/Users/seangillespie/Desktop/C#/Basic13/Puzzle/obj/Debug/netcoreapp2.2/Puzzle.pdb
